@@ -13,5 +13,4 @@
 
 ## Getting Started
 
-This branch should always contain stable, production-ready code.
-Only merge tested and reviewed code into the main branch.
+This branch should always contain stable, production-ready code. Only merge tested and reviewed code into the main branch.
