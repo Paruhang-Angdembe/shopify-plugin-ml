@@ -22,7 +22,11 @@ shopify-plugin/
 ├── templates/
 ├── auth/
 ├── main/
-└── app files (app.py, config.py, routes.py)
+├──app files (app.py, config.py, routes.py)
+├── data_processing.py
+├── model_training.py
+├── model_evaluation.py
+└── **init**.py
 
 ├── data/
 ├── raw/
@@ -32,10 +36,6 @@ shopify-plugin/
 ├── notebooks/
 
 ├── src/
-├── data_processing.py
-├── model_training.py
-├── model_evaluation.py
-└── **init**.py
 
 ├── tests/
 ├── test_data_processing.py
